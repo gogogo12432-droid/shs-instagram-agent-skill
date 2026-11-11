@@ -45,9 +45,8 @@ Dal sito, quindi pubblici e coerenti con quello che l'ospite troverà:
 - **Tassa di soggiorno:** si paga in loco, solo in contanti, non è inclusa nel
   pagamento online.
 
-Da NON citare senza conferma: prezzi (sono stagionali e cambiano), disponibilità,
-recensioni o punteggi (il sito non ne mostra: nessuna valutazione reale
-collegata).
+Da NON citare senza conferma: prezzi (sono stagionali e cambiano) e
+disponibilità. Le recensioni sono nella sezione "La nostra prova" qui sotto.
 
 ## Come suoniamo
 
@@ -71,7 +70,7 @@ collegata).
 Proposte ricavate dai fatti: da confermare o correggere.
 
 1. **Dormire a 30 metri dall'Arena è un'altra Verona.** Di sera, quando i
-   turisti se ne vanno, la piazza è tua.
+   turisti se ne vanno, la piazza è tua. (Posizione: 9,9 su Booking.com.)
 2. **Prenotare diretto conviene.** Cancellazione gratuita fino a 7 giorni
    prima, senza commissioni di portale. {{da confermare: sconto o vantaggio
    per chi prenota diretto}}
@@ -81,18 +80,55 @@ Proposte ricavate dai fatti: da confermare o correggere.
 ## Fuori limite
 
 - **Argomenti da non trattare:** {{da completare}}
-- **Numeri o nomi che non si possono dire:** prezzi, recensioni e nomi di ospiti
-  senza consenso.
+- **Numeri o nomi che non si possono dire:** prezzi e nomi di ospiti senza
+  consenso. Niente promesse sulla **vista**: è la valutazione più bassa
+  (7,5). Niente post che puntano sul prezzo: "rapporto qualità-prezzo" è la
+  categoria più bassa (9,1), anche se resta alta.
 - **Mai:** foto di ospiti, bambini o dello staff senza consenso scritto; offerte
   con scarsità inventata ("ultime camere!") se non è vero.
 
 ## La nostra prova (la base per i post "proof")
 
-Solo numeri e fatti che confermi tu:
+Dati forniti dal titolare (screenshot della sezione Statistiche di
+Booking.com della struttura, visti il 2026-11-11). Si possono citare, sempre
+con la dicitura "su Booking.com" e senza arrotondare per eccesso. Da
+aggiornare ogni tanto, perché il punteggio è un calcolo ponderato che dà più
+peso alle recensioni recenti (dal 23 gennaio 2025).
 
-- {{es. anni di attività, numero di ospiti, nazionalità, punteggio Booking/Airbnb}}
-- {{es. un ospite che ha lasciato una recensione che puoi citare, con
-  permesso}}
+**Punteggio recensioni: 9,4 su 142 recensioni (Booking.com)**
+
+| categoria | voto |
+| --- | --- |
+| Comfort | 9,9 |
+| Posizione | 9,9 |
+| Pulizia | 9,7 |
+| Staff | 9,6 |
+| Servizi | 9,5 |
+| Rapporto qualità-prezzo | 9,1 |
+
+Altre valutazioni (non entrano nel punteggio):
+
+| voce | voto |
+| --- | --- |
+| Caffè | **10,0** |
+| Comfort del letto | 9,1 |
+| WiFi | 8,7 |
+| Vista | 7,5 |
+
+Come usarli nei post:
+- **Posizione 9,9 e Comfort 9,9** sono i due numeri da ripetere. Sostengono
+  "a 30 metri dall'Arena" e "come a casa".
+- **Caffè 10,0** è un gancio vero e originale: l'angolo Nespresso del mattino
+  diventa un Reel ("il voto più alto che ci danno gli ospiti è il caffè").
+  Verifica prima che questa voce sia visibile agli ospiti sulla pagina
+  pubblica, non solo nella tua area riservata.
+- **Mai** "la migliore struttura di Verona" o simili: il dato dice 9,4 su 142
+  recensioni, non una classifica.
+- Una **recensione testuale** si cita solo con il testo esatto e il
+  permesso dell'ospite o la fonte pubblica. Non ne ho ancora, vedi sotto.
+- {{da completare: anni di attività, nazionalità principali degli ospiti,
+  punteggio Airbnb}}
+- {{da completare: 2 o 3 recensioni testuali pubbliche da usare}}
 
 ## L'invito all'azione
 

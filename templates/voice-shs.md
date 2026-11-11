@@ -126,9 +126,46 @@ Come usarli nei post:
   recensioni, non una classifica.
 - Una **recensione testuale** si cita solo con il testo esatto e il
   permesso dell'ospite o la fonte pubblica. Non ne ho ancora, vedi sotto.
-- {{da completare: anni di attività, nazionalità principali degli ospiti,
-  punteggio Airbnb}}
+**Airbnb** (pagine pubbliche lette il 2026-11-11; vanno ricontrollate prima
+di citarle, perché cambiano):
+
+| annuncio | punteggio | recensioni | note |
+| --- | --- | --- | --- |
+| Sweet Home Suites 1 | **4,91** su 5 | 34 | badge "Guest favorite" |
+| Sweet Home Suites 2 | **4,89** su 5 | 19 | badge "Guest favorite" |
+| Sweet Home Suites (entrambe) | 4,74 su 5 | 19 | 8 ospiti |
+
+- Nelle categorie Airbnb pulizia e posizione arrivano a **5,0** (SHS 2 e
+  annuncio combinato), comunicazione a **5,0** (SHS 1).
+- L'host ha 6 anni di attività su Airbnb, 4,86 di media su 72 recensioni e
+  risposta al 100%. Co-host: Enrico e Andrea. **"6 anni di ospitalità"** è un
+  fatto citabile, con la dicitura "su Airbnb".
+- Le pagine mostrano temi ricorrenti nelle recensioni (posizione, pulizia,
+  accoglienza), ma **nessun testo di recensione**. Quindi nessuna frase di
+  ospiti è ancora citabile.
+- Non citare cifre come "4,91" senza dire "su Airbnb". Booking e Airbnb hanno
+  scale diverse (10 e 5).
+- {{da completare: nazionalità principali degli ospiti}}
 - {{da completare: 2 o 3 recensioni testuali pubbliche da usare}}
+
+## Regole e dettagli da rispettare nei post (da Airbnb)
+
+- Non sono ammessi **addii al celibato/nubilato** e **animali**: non fare
+  post che li promettano.
+- **Niente cucina.** C'è un angolo con frigo, Nespresso e bollitore. Mai
+  scrivere "cucina" o "cucinare".
+- **Colazione non inclusa.** Il caffè è un punto forte (10,0 su Booking), ma
+  la colazione no: non scrivere "colazione inclusa".
+- **Ascensore** presente e appartamenti al secondo piano (da Airbnb: non è sul
+  sito, vale la pena aggiungerlo anche lì).
+- **Tassa di soggiorno 3,50 euro a notte per ospite**, da pagare all'arrivo
+  (sul sito: solo contanti). Non è nel prezzo.
+- **Incoerenza da sistemare:** Airbnb dice che Arena **e** Piazza Bra sono a
+  30 m. Il sito dice 30 m dall'Arena e 2 minuti a piedi da Piazza Bra. Prima
+  di pubblicare distanze, scegliere la versione vera e allinearle ovunque.
+- **Sicurezza:** su tutte le pagine Airbnb rilevatore di fumo e di monossido
+  risultano "non disponibili". Se ci sono, vanno spuntati nell'annuncio; se non
+  ci sono, è un tema da affrontare prima di fare campagne.
 
 ## L'invito all'azione
 

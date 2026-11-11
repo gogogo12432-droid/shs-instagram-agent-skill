@@ -1,0 +1,26 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Temporanei
+*.tmp
+*.bak
+
+# Python (scripts/)
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Uscite dello strumento di profilo voce
+scheda-voce.md
+profilo-voce.json

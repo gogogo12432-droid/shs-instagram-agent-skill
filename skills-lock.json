@@ -6,6 +6,18 @@
       "sourceType": "github",
       "skillPath": "skills/find-skills/SKILL.md",
       "computedHash": "7bc223e2aafbdbf6e50ea243ba6ef67fe432bb069ab439fea0390795dac0bf7f"
+    },
+    "hospitality-hotel-restaurant": {
+      "source": "peterbamuhigire/social-media-skills",
+      "sourceType": "github",
+      "skillPath": "skills/sectors/hospitality-hotel-restaurant/SKILL.md",
+      "computedHash": "60d0ddd7f54c6c6830a4db19664624b2698bb224fa97f51e43ded893eaea3555"
+    },
+    "italiano-scrittura-anti-ai": {
+      "source": "mario-montanari/italiano-scrittura-anti-ai",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "8e2374656758e57f9876a1629ab3a3ec47f5bec69cf32964ac593efa22a4dfb4"
     }
   }
 }

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: Se usi questa skill, cita come segue.
+title: italiano-scrittura-anti-ai
+abstract: Suite per la lingua italiana e sistema avanzato anti AI, in Claude e non solo. Scrive secondo la norma, corregge e rivede testi già scritti, traduce senza calchi, cattura e misura la voce di un autore, riconosce la firma della prosa generata e difende un testo umano segnalato da un rilevatore automatico.
+type: software
+authors:
+  - family-names: Montanari
+    given-names: Mario
+    website: https://mariomontanari.it
+repository-code: https://github.com/mario-montanari/italiano-scrittura-anti-ai
+url: https://github.com/mario-montanari/italiano-scrittura-anti-ai
+license: MIT
+version: 1.6.0
+date-released: "2026-11-09"
+keywords:
+  - italiano
+  - scrittura
+  - anti-ai
+  - claude-skill
+  - umanizzazione
+  - stilometria

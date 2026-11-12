@@ -218,7 +218,9 @@ Pagina vista il 2026-11-12 (foto inviata dal titolare). Dati:
 - **Fatti nuovi da questo testo:** luce naturale dalle grandi finestre, bagni
   privati ampi con doccia a pioggia e cromoterapia, **consigli su ristoranti
   romantici e itinerari della Verona meno conosciuta** (un servizio da
-  raccontare: {{da completare: come si offre? lista, mappa, messaggio?}}).
+  raccontare: **in appartamento c'è una mappa con i ristoranti**, confermato
+  dal titolare. {{da completare: gli itinerari della Verona meno conosciuta
+  come si offrono? sono sulla stessa mappa?}}).
 
 Come scriverlo nei post:
 - **Dicitura (scelta del titolare: non indicare che è a pagamento):** neutra e

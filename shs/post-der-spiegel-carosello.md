@@ -16,7 +16,7 @@ scelta della redazione (vedi `templates/voice-shs.md`).
 | 2 | `piazza-bra.jpg`, taglio sull'Arena | A few steps from the Arena and Piazza Bra. / A pochi passi dall'Arena e da Piazza Bra. |
 | 3 | `soggiorno-1.jpg` | Natural light through large windows. / Luce naturale dalle grandi finestre. |
 | 4 | `bagno-1.jpg` | Spacious private bathrooms with rainfall showers and chromotherapy. / Bagni privati ampi, con doccia a pioggia e cromoterapia. |
-| 5 | `camera-1.jpg` | Recommendations for romantic restaurants and itineraries in lesser-known Verona. / Consigli su ristoranti romantici e itinerari nella Verona meno conosciuta. |
+| 5 | **foto della mappa dei ristoranti in appartamento** (da scattare: solo la mappa, senza persone; se non c'è tempo, `camera-1.jpg`) | In every apartment, a map with restaurants for your evenings in Verona. / In ogni appartamento trovi una mappa con i ristoranti per le tue serate a Verona. |
 | 6 | `piazza-bra.jpg` | Our website has a lower price than the booking platforms. Comment ARENA. / Sul nostro sito il prezzo è più basso che sulle piattaforme. Commenta ARENA. |
 
 Le slide 2-5 riprendono parola per parola le cose scritte nell'annuncio
@@ -29,7 +29,7 @@ veda bene e che non ci siano persone.
 ```
 Our suites are on page 22 of Der Spiegel's "Italia, la grande bellezza" supplement, March 2026.
 
-A few steps from the Arena and Piazza Bra, in the historic center of Verona. Natural light through large windows, spacious private bathrooms with rainfall showers and chromotherapy, and recommendations for romantic restaurants and lesser-known itineraries.
+A few steps from the Arena and Piazza Bra, in the historic center of Verona. Natural light through large windows, spacious private bathrooms with rainfall showers and chromotherapy, and a map with restaurants waiting in the apartment, with recommendations for romantic dinners and lesser-known itineraries.
 
 Our own website has a lower price than the booking platforms. Comment ARENA and we will send you the link to request a price for your dates. Free cancellation up to 7 days before arrival.
 
@@ -41,7 +41,7 @@ Our own website has a lower price than the booking platforms. Comment ARENA and 
 ```
 Siamo a pagina 22 dell'inserto "Italia, la grande bellezza" di Der Spiegel, marzo 2026.
 
-A pochi passi dall'Arena e da Piazza Bra, nel centro storico di Verona. Luce naturale dalle grandi finestre, bagni privati ampi con doccia a pioggia e cromoterapia, e consigli su ristoranti romantici e itinerari nella Verona meno conosciuta.
+A pochi passi dall'Arena e da Piazza Bra, nel centro storico di Verona. Luce naturale dalle grandi finestre, bagni privati ampi con doccia a pioggia e cromoterapia, e in appartamento una mappa con i ristoranti, con consigli per cene romantiche e itinerari nella Verona meno conosciuta.
 
 Sul nostro sito il prezzo è più basso che sulle piattaforme. Commenta ARENA e ti mandiamo il link per chiedere il prezzo per le tue date. Cancellazione gratuita fino a 7 giorni prima dell'arrivo.
 ```
@@ -51,7 +51,7 @@ Sul nostro sito il prezzo è più basso che sulle piattaforme. Commenta ARENA e 
 ```
 Unsere Suiten finden Sie auf Seite 22 der Beilage "Italia, la grande bellezza" des SPIEGEL, März 2026.
 
-Nur wenige Schritte von der Arena und der Piazza Bra, im historischen Zentrum von Verona. Natürliches Licht durch große Fenster, geräumige private Bäder mit Regendusche und Chromotherapie sowie Empfehlungen für romantische Restaurants und weniger bekannte Routen.
+Nur wenige Schritte von der Arena und der Piazza Bra, im historischen Zentrum von Verona. Natürliches Licht durch große Fenster, geräumige private Bäder mit Regendusche und Chromotherapie sowie eine Karte mit Restaurants in der Wohnung, mit Empfehlungen für romantische Abendessen und weniger bekannte Routen.
 
 Auf unserer eigenen Website ist der Preis niedriger als auf den Buchungsplattformen. Kommentieren Sie ARENA, und wir senden Ihnen den Link, um einen Preis für Ihre Daten anzufragen. Kostenlose Stornierung bis 7 Tage vor der Anreise.
 ```
@@ -64,8 +64,9 @@ a chi dei vostri parla tedesco, prima di pubblicarlo.
 1. **Marchio Der Spiegel:** hai il permesso di pubblicare la pagina; non
    usare il logo della testata come sfondo o in grande, per non dare
    l'impressione che sia un'approvazione.
-2. **Consigli su ristoranti e itinerari:** l'annuncio li promette. Dimmi come
-   li offri (messaggio dopo la richiesta? una lista? una mappa?), così posso
-   scrivere cosa riceve l'ospite e non promettere nulla di vago.
+2. **Mappa dei ristoranti:** confermata dal titolare (in ogni appartamento?
+   {{da confermare: in entrambi}}). Gli **itinerari** della Verona meno
+   conosciuta, promessi nell'annuncio: sono sulla mappa o in un altro
+   supporto? Finché non lo so, nella slide 5 parlo solo della mappa.
 3. **Sito:** il .it stampato rimanda al .eu (confermato dal titolare).
 4. **Controllo del repo:** da rilanciare `caption.py` sul testo finale.

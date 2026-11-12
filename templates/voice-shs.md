@@ -204,9 +204,11 @@ di citarle, perché cambiano):
   riceve il link per **richiedere il prezzo** sul sito. Attivabile solo con
   gli strumenti ufficiali di Instagram.
 - **Cosa riceve chi la scrive:** il link a sweethomesuites.eu per richiedere
-  il prezzo con le date. Le date libere si confermano a mano, perché il
-  calendario è gestito dal titolare. Da attivare solo con gli strumenti
-  ufficiali di Instagram.
+  il prezzo con le date. Il sito mostra già un calendario di disponibilità
+  in tempo reale, sincronizzato con Booking e Airbnb (verificato sul sito
+  online il 2026-11-12), quindi chi scrive ARENA può controllare da solo se
+  le date sono libere. Da attivare solo con gli strumenti ufficiali di
+  Instagram.
 - **Link in bio:** sweethomesuites.eu (pagina per richiedere il prezzo)
 
 ## Foto e video disponibili

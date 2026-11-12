@@ -227,13 +227,11 @@ Come scriverlo nei post:
   acquistato, e la redazione non ci ha scelto.
 - **Lingue:** l'inserto è in inglese, tedesco e francese. Le caption in
   inglese vanno bene, tedesco e francese sono mercati da considerare.
-- **Attenzione al sito stampato:** l'annuncio riporta **www.sweethomesuites.it**
-  e l'email sweethomesuites@gmail.com. Il sito vero e aggiornato, dove si
-  richiede il prezzo, è **sweethomesuites.eu**. Il dominio .it risponde
-  tramite Jimdo (un altro servizio di siti) e il mio browser è stato
-  bloccato: non so se mostra un sito vecchio, se rimanda al .eu o se è
-  vuoto. {{da controllare: che cosa vede chi digita il .it dopo aver letto
-  l'inserto}}
+- **Sito stampato:** l'annuncio riporta **www.sweethomesuites.it**. Il titolare
+  conferma che **rimanda al sito .eu** (sweethomesuites.eu), dove si richiede
+  il prezzo. Io non ho potuto verificarlo, perché il mio browser è stato
+  bloccato dal servizio che ospita il .it. Nei post uso sempre
+  sweethomesuites.eu.
 
 ## L'invito all'azione
 

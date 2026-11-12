@@ -24,8 +24,9 @@ confermata.
   Il sito è in 6 lingue (IT, EN, DE, FR, ES, PT). {{da completare: i 3-4 paesi
   più frequenti, se vuoi parlare a un mercato in particolare}}
 - **Cosa vendiamo:** soggiorni in 2 appartamenti (Sweet Home Suites 1 e 2),
-  prenotabili in modo diretto sul sito sweethomesuites.eu. Sono sincronizzati
-  anche con Booking e Airbnb.
+  con richiesta del prezzo sul sito sweethomesuites.eu (si scelgono le date e
+  si riceve un prezzo su misura, di solito entro poche ore: non è una
+  prenotazione immediata). Sono presenti anche su Booking e Airbnb.
 
 ## Fatti verificati (si possono citare)
 
@@ -46,8 +47,12 @@ Dal sito, quindi pubblici e coerenti con quello che l'ospite troverà:
 - **Neonati:** culla gratuita su richiesta (fino a 3 anni), se disponibile.
 - **Check-in** dalle 15:00, **check-out** entro le 11:00. Accoglienza di
   persona all'arrivo.
-- **Prenotazione diretta:** pagamento sicuro, acconto 30% o pagamento
-  completo, **cancellazione gratuita fino a 7 giorni prima dell'arrivo**.
+- **Come si prenota dal sito:** si richiede il prezzo per le date scelte
+  (non c'è prenotazione immediata) e la struttura risponde di solito entro
+  poche ore. Il sito prevede poi il pagamento (acconto 30% o totale) e la
+  cancellazione gratuita fino a 7 giorni prima dell'arrivo: {{da confermare
+  dal titolare che queste condizioni valgono ancora dopo la richiesta, prima di
+  citarle nei post}}.
 - **Tassa di soggiorno:** si paga in loco, solo in contanti, non è inclusa nel
   pagamento online.
 
@@ -81,9 +86,10 @@ Proposte ricavate dai fatti: da confermare o correggere.
 
 1. **Dormire a 30 metri dall'Arena è un'altra Verona.** Di sera, quando i
    turisti se ne vanno, la piazza è tua. (Posizione: 9,9 su Booking.com.)
-2. **Prenotare diretto conviene.** Cancellazione gratuita fino a 7 giorni
-   prima, senza commissioni di portale. {{da confermare: sconto o vantaggio
-   per chi prenota diretto}}
+2. **Chiedere il prezzo è semplice.** Scegli le date sul sito, ti rispondiamo
+   di solito entro poche ore con un prezzo su misura. {{da confermare: se
+   chi passa dal sito ha un vantaggio rispetto a Booking e Airbnb. Finché non
+   è confermato, non lo scrivo.}}
 3. **Un appartamento, non una camera.** Soggiorno, camera e bagno privati,
    caffè Nespresso e tisane al mattino, con calma.
 
@@ -128,10 +134,8 @@ Altre valutazioni (non entrano nel punteggio):
 Come usarli nei post:
 - **Posizione 9,9 e Comfort 9,9** sono i due numeri da ripetere. Sostengono
   "a 30 metri dall'Arena" e "come a casa".
-- **Caffè 10,0** è un gancio vero e originale: l'angolo Nespresso del mattino
-  diventa un Reel ("il voto più alto che ci danno gli ospiti è il caffè").
-  Verifica prima che questa voce sia visibile agli ospiti sulla pagina
-  pubblica, non solo nella tua area riservata.
+- **Caffè 10,0:** il titolare ha scelto di **non citare il voto**. Il post
+  sull'angolo Nespresso, caffè e tisane si fa senza numero.
 - **Mai** "la migliore struttura di Verona" o simili: il dato dice 9,4 su 142
   recensioni, non una classifica.
 - Una **recensione testuale** si cita solo con il testo esatto e il
@@ -197,12 +201,13 @@ di citarle, perché cambiano):
     che è vero e verificabile.
 - **Parola chiave per i DM:** **ARENA** (una parola, senza accento, uguale in
   italiano e inglese, e legata al motivo di viaggio più forte). Chi la scrive
-  riceve le date libere e il link alla prenotazione diretta. Attivabile solo
-  con gli strumenti ufficiali di Instagram.
-- **Cosa riceve chi la scrive:** link alla prenotazione diretta
-  sweethomesuites.eu e disponibilità. Da attivare solo con gli strumenti
+  riceve il link per **richiedere il prezzo** sul sito. Attivabile solo con
+  gli strumenti ufficiali di Instagram.
+- **Cosa riceve chi la scrive:** il link a sweethomesuites.eu per richiedere
+  il prezzo con le date. Le date libere si confermano a mano, perché il
+  calendario è gestito dal titolare. Da attivare solo con gli strumenti
   ufficiali di Instagram.
-- **Link in bio:** sweethomesuites.eu (pagina prenotazioni)
+- **Link in bio:** sweethomesuites.eu (pagina per richiedere il prezzo)
 
 ## Foto e video disponibili
 

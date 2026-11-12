@@ -168,9 +168,12 @@ di citarle, perché cambiano):
   sito, vale la pena aggiungerlo anche lì).
 - **Tassa di soggiorno 3,50 euro a notte per ospite**, da pagare all'arrivo
   (sul sito: solo contanti). Non è nel prezzo.
-- **Incoerenza da sistemare:** Airbnb dice che Arena **e** Piazza Bra sono a
-  30 m. Il sito dice 30 m dall'Arena e 2 minuti a piedi da Piazza Bra. Prima
-  di pubblicare distanze, scegliere la versione vera e allinearle ovunque.
+- **Distanze, entrambe corrette** (confermato dal titolare): l'Arena sta in
+  Piazza Bra. Quindi "a 30 m dall'Arena" (e dal bordo della piazza, come
+  scrive Airbnb) e "a 2 minuti a piedi da Piazza Bra" (verso il centro della
+  piazza, come scrive il sito) sono compatibili. Nei post usare **"a 30 metri
+  dall'Arena"** come frase principale e "2 minuti a piedi" solo se si parla
+  del cuore di Piazza Bra.
 - **Sicurezza:** su tutte le pagine Airbnb rilevatore di fumo e di monossido
   risultano "non disponibili". Se ci sono, vanno spuntati nell'annuncio; se non
   ci sono, è un tema da affrontare prima di fare campagne.

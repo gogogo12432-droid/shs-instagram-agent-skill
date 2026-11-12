@@ -14,10 +14,15 @@ confermata.
 - **Pagina Facebook:** Sweet Home Suites Verona
 - **Cosa facciamo, in una frase:** due appartamenti-suite eleganti nel centro
   storico di Verona, a due passi da Arena e Piazza Bra.
-- **Pubblico a cui parliamo:** {{da completare: coppie? famiglie? viaggiatori
-  per opera/Arena? stranieri?}}. Il sito è in 6 lingue (IT, EN, DE, FR, ES,
-  PT), quindi gli ospiti sono in buona parte stranieri. {{da completare: quali
-  paesi}}
+- **Pubblico a cui parliamo** (dal titolare): ospiti da tutto il mondo, in
+  quattro gruppi:
+  1. **coppie** in cerca di una fuga romantica elegante a Verona;
+  2. **famiglie** che vengono a visitare la città;
+  3. **chi viene per un'opera o un concerto in Arena**, perché la struttura
+     è a due passi;
+  4. viaggiatori in generale.
+  Il sito è in 6 lingue (IT, EN, DE, FR, ES, PT). {{da completare: i 3-4 paesi
+  più frequenti, se vuoi parlare a un mercato in particolare}}
 - **Cosa vendiamo:** soggiorni in 2 appartamenti (Sweet Home Suites 1 e 2),
   prenotabili in modo diretto sul sito sweethomesuites.eu. Sono sincronizzati
   anche con Booking e Airbnb.
@@ -60,8 +65,11 @@ disponibilità. Le recensioni sono nella sezione "La nostra prova" qui sotto.
   minuti a piedi, cosa c'è nella stanza.
 - **Do del tu o del lei:** il sito usa il tu. {{da confermare}}
 - **Emoji nelle caption:** {{da completare}} (suggerito: una, raramente)
-- **Volto in camera:** {{da completare}}
-- **Voce:** {{da completare}} (voce di chi accoglie, voce neutra del brand?)
+- **Volto in camera:** mai. Nessun volto nei video (decisione del titolare).
+  Quindi: solo ambienti, dettagli, mani se serve, testo a schermo e musica.
+- **Voce:** {{da completare}} (niente voiceover? voce neutra del brand?). Se
+  non c'è voce, tutto si regge sul testo a schermo, quindi gli hook sono
+  frasi scritte brevi.
 - **Lingue dei post:** {{da completare}} (suggerito: italiano con una riga
   in inglese)
 
@@ -169,7 +177,11 @@ di citarle, perché cambiano):
 
 ## L'invito all'azione
 
-- **Parola chiave per i DM, se vogliamo usarla:** {{es. VERONA}}
+- **Parole guida dei post** (proposte dal titolare: eleganza, pulizia,
+  disponibilità, nuovo). Vedi le note qui sotto: "pulizia" si regge sui dati,
+  "nuovo" va verificato.
+- **Parola chiave per i DM, se vogliamo usarla:** {{proposta: ARENA o DATE, da
+  scegliere}}
 - **Cosa riceve chi la scrive:** link alla prenotazione diretta
   sweethomesuites.eu e disponibilità. Da attivare solo con gli strumenti
   ufficiali di Instagram.
@@ -179,5 +191,20 @@ di citarle, perché cambiano):
 
 Il sito ha 20 foto, tutte suddivise in: ingresso (3), soggiorno (4 + 3 del
 secondo appartamento), camera (3 + 3), bagno (2 + 1) e una foto di Piazza Bra.
-Video: {{da completare}}. Per i Reel servono clip verticali: {{da completare:
-ce ne sono?}}
+**Video: nessuna clip verticale disponibile.** Prima dei Reel veri vanno girati
+10-15 clip da 5-8 secondi col telefono in verticale (9:16), vedi la lista
+sotto. Nel frattempo i post sono caroselli di foto e Reel fatti con le foto
+esistenti (movimento lento, testo a schermo, musica).
+
+Lista di clip da girare (nessun volto):
+1. Entrata dell'edificio e salita verso la suite.
+2. Dettaglio della Nespresso che parte, tazza, tisane.
+3. Camera: letto rifatto, luce dalla finestra.
+4. Bagno: la doccia con effetti cromatici, specchio, asciugamani.
+5. Soggiorno: divano letto, tavolo, TV.
+6. Dalla finestra o dal portone: la strada, Via Dietro Listone.
+7. Camminata dal portone all'Arena (clip continua, cronometrata: quanti
+   passi o secondi?).
+8. Camminata fino a Piazza Bra.
+9. L'Arena di sera, con la luce giusta.
+10. Via Mazzini e Piazza delle Erbe, solo ambiente.

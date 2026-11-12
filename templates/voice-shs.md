@@ -86,10 +86,13 @@ Proposte ricavate dai fatti: da confermare o correggere.
 
 1. **Dormire a 30 metri dall'Arena è un'altra Verona.** Di sera, quando i
    turisti se ne vanno, la piazza è tua. (Posizione: 9,9 su Booking.com.)
-2. **Chiedere il prezzo è semplice.** Scegli le date sul sito, ti rispondiamo
-   di solito entro poche ore con un prezzo su misura. {{da confermare: se
-   chi passa dal sito ha un vantaggio rispetto a Booking e Airbnb. Finché non
-   è confermato, non lo scrivo.}}
+2. **Dal nostro sito il prezzo è più basso che sulle piattaforme** (dal
+   titolare). Scegli le date sul sito, ti rispondiamo di solito entro poche
+   ore con un prezzo su misura. Regole d'uso: dirlo sempre in forma vera e
+   verificabile ("sul nostro sito il prezzo è più basso che su Booking e
+   Airbnb"), mai con una percentuale o una cifra che non hai confermato, e
+   solo se vale per tutte le date. {{da confermare: vale sempre? di quanto,
+   se vuoi dirlo?}}
 3. **Un appartamento, non una camera.** Soggiorno, camera e bagno privati,
    caffè Nespresso e tisane al mattino, con calma.
 

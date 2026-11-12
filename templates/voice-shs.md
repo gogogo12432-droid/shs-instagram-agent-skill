@@ -195,19 +195,26 @@ di citarle, perché cambiano):
 - **CIN:** {{da completare: numero CIN, se la struttura ne ha uno}}. Se va
   indicato negli annunci, va messo anche in bio.
 
-## Stampa: inserto Der Spiegel, luglio 2026 (da verificare)
+## Stampa: inserto Der Spiegel (da verificare)
 
-Il titolare dice che SHS è pubblicizzata nell'inserto di Der Spiegel del
-luglio 2026. La pagina indicata (mediacompany.eu/der-spiegel) è il sito
-dell'editore dell'edizione italiana, MediaCompany S.r.l.: elenca il numero di
-luglio 2026 ma **non nomina Sweet Home Suites** e non indica se si tratta di
-pubblicità. Quindi, finché non c'è la pagina vera:
+Il titolare dice che SHS è a **pagina 24** dell'inserto **"Italia, la grande
+bellezza"** di Der Spiegel, **edizione marzo 2026**, pubblicato in **inglese,
+tedesco e francese** (in precedenza aveva indicato anche luglio 2026: da
+chiarire se sono due uscite). Verificato: il documento esiste su Issuu (editore
+Media Company, pubblicato il 27 marzo 2026) e il sito dell'editore
+(mediacompany.eu/der-spiegel, MediaCompany S.r.l.) lista i numeri. **Non
+verificato:** la pagina 24. Issuu non l'ha resa leggibile a un browser
+automatico e nelle pagine pubbliche non compaiono né il nome di Sweet Home
+Suites né diciture come "Anzeige" o "pubblicità". Quindi, finché non c'è la
+pagina vera:
 
 - **Non scrivere** "visti su Der Spiegel", "ci ha scelto Der Spiegel" o "come
   visto su". Se è uno spazio a pagamento, sarebbe fuorviante.
-- **Si può scrivere**, solo dopo conferma: "Presenti nell'inserto di Der
-  Spiegel Italia, luglio 2026" (o la dicitura esatta, e "contenuto
-  promozionale" se lo è).
+- **Si può scrivere**, solo dopo conferma: "Presenti a pagina 24 dell'inserto
+  «Italia, la grande bellezza» di Der Spiegel, marzo 2026" (e "contenuto
+  promozionale" se lo è). L'inserto è in inglese, tedesco e francese: la
+  caption in inglese è quella giusta, e il tedesco e il francese sono mercati
+  da considerare.
 - {{da completare: scansione o foto della pagina, nome esatto dell'inserto,
   se è un contenuto a pagamento o editoriale, e il permesso di riprodurre la
   pagina in un post}}

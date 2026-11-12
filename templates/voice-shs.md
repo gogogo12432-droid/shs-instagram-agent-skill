@@ -35,6 +35,7 @@ Dal sito, quindi pubblici e coerenti con quello che l'ospite troverà:
   2 minuti a piedi da Piazza Bra, 200 metri da Via Mazzini (shopping). Vicini
   anche a Castelvecchio e Piazza delle Erbe.
 - **Spazi:** ogni appartamento ha soggiorno, camera da letto e bagno privati.
+- **Ristrutturazione:** completamente ristrutturato nel 2020 (dal titolare).
 - **Capienza:** 4 posti letto per appartamento (letto matrimoniale + divano
   letto), 8 se si prendono entrambi.
 - **Comfort:** angolo Nespresso, bollitore, caffè, tè e tisane; mini frigo,
@@ -67,11 +68,12 @@ disponibilità. Le recensioni sono nella sezione "La nostra prova" qui sotto.
 - **Emoji nelle caption:** {{da completare}} (suggerito: una, raramente)
 - **Volto in camera:** mai. Nessun volto nei video (decisione del titolare).
   Quindi: solo ambienti, dettagli, mani se serve, testo a schermo e musica.
-- **Voce:** {{da completare}} (niente voiceover? voce neutra del brand?). Se
-  non c'è voce, tutto si regge sul testo a schermo, quindi gli hook sono
-  frasi scritte brevi.
-- **Lingue dei post:** {{da completare}} (suggerito: italiano con una riga
-  in inglese)
+- **Voce:** nessun voiceover per ora (decisione del titolare). Tutto si
+  regge sul testo a schermo e sulla musica, quindi gli hook sono frasi
+  scritte brevi.
+- **Lingue dei post:** italiano e inglese (decisione del titolare). Caption:
+  prima l'italiano, poi l'inglese, scritto da zero e non tradotto parola per
+  parola. Testo a schermo: una riga per lingua, brevi.
 
 ## Le nostre posizioni (da cui nascono i post)
 
@@ -175,16 +177,28 @@ di citarle, perché cambiano):
   dall'Arena"** come frase principale e "2 minuti a piedi" solo se si parla
   del cuore di Piazza Bra.
 - **Sicurezza:** su tutte le pagine Airbnb rilevatore di fumo e di monossido
-  risultano "non disponibili". Se ci sono, vanno spuntati nell'annuncio; se non
-  ci sono, è un tema da affrontare prima di fare campagne.
+  risultano "non disponibili". Il titolare conferma che non ci sono, perché
+  non c'è la cucina. {{da verificare con un professionista: obblighi di
+  legge sui dispositivi di sicurezza per le locazioni turistiche, e se è
+  obbligatorio indicare il CIN (codice identificativo nazionale) negli
+  annunci e nei post. Non lo scrivo io come obbligo certo.}}
+- **CIN:** {{da completare: numero CIN, se la struttura ne ha uno}}. Se va
+  indicato negli annunci, va messo anche in bio.
 
 ## L'invito all'azione
 
-- **Parole guida dei post** (proposte dal titolare: eleganza, pulizia,
-  disponibilità, nuovo). Vedi le note qui sotto: "pulizia" si regge sui dati,
-  "nuovo" va verificato.
-- **Parola chiave per i DM, se vogliamo usarla:** {{proposta: ARENA o DATE, da
-  scegliere}}
+- **Parole guida dei post:** eleganza, pulizia, disponibilità e
+  "ristrutturato nel 2020". Regole d'uso:
+  - **pulizia:** sempre con il dato (9,7 su Booking.com, 5,0 su Airbnb);
+  - **eleganza:** mai da sola, sempre con un dettaglio che la mostra;
+  - **disponibilità:** come invito ("scrivici le date"), non come parola da
+    digitare;
+  - **nuovo:** non usarlo. Dire **"completamente ristrutturato nel 2020"**,
+    che è vero e verificabile.
+- **Parola chiave per i DM:** **ARENA** (una parola, senza accento, uguale in
+  italiano e inglese, e legata al motivo di viaggio più forte). Chi la scrive
+  riceve le date libere e il link alla prenotazione diretta. Attivabile solo
+  con gli strumenti ufficiali di Instagram.
 - **Cosa riceve chi la scrive:** link alla prenotazione diretta
   sweethomesuites.eu e disponibilità. Da attivare solo con gli strumenti
   ufficiali di Instagram.

@@ -49,10 +49,13 @@ Dal sito, quindi pubblici e coerenti con quello che l'ospite troverà:
   persona all'arrivo.
 - **Come si prenota dal sito:** si richiede il prezzo per le date scelte
   (non c'è prenotazione immediata) e la struttura risponde di solito entro
-  poche ore. Il sito prevede poi il pagamento (acconto 30% o totale) e la
-  cancellazione gratuita fino a 7 giorni prima dell'arrivo: {{da confermare
-  dal titolare che queste condizioni valgono ancora dopo la richiesta, prima di
-  citarle nei post}}.
+  poche ore. Confermato dal titolare: la cancellazione è
+  gratuita e l'ospite sceglie se pagare **tutto subito o solo il 30%**
+  subito (saldo con bonifico entro 7 giorni dall'arrivo). {{da chiarire: sul
+  sito "gratuita" vale fino a 7 giorni prima dell'arrivo; entro 7 giorni
+  serve il pagamento completo e non è rimborsabile. Nei post scrivo
+  "cancellazione gratuita fino a 7 giorni prima dell'arrivo", e non
+  "sempre", finché non mi dici che la regola è cambiata.}}
 - **Tassa di soggiorno:** si paga in loco, solo in contanti, non è inclusa nel
   pagamento online.
 
@@ -91,8 +94,8 @@ Proposte ricavate dai fatti: da confermare o correggere.
    ore con un prezzo su misura. Regole d'uso: dirlo sempre in forma vera e
    verificabile ("sul nostro sito il prezzo è più basso che su Booking e
    Airbnb"), mai con una percentuale o una cifra che non hai confermato, e
-   solo se vale per tutte le date. {{da confermare: vale sempre? di quanto,
-   se vuoi dirlo?}}
+   solo se vale per tutte le date. **Confermato dal titolare: vale sempre.**
+   Cifra non indicata, quindi nessuna percentuale.
 3. **Un appartamento, non una camera.** Soggiorno, camera e bagno privati,
    caffè Nespresso e tisane al mattino, con calma.
 

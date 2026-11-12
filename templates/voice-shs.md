@@ -195,29 +195,45 @@ di citarle, perché cambiano):
 - **CIN:** {{da completare: numero CIN, se la struttura ne ha uno}}. Se va
   indicato negli annunci, va messo anche in bio.
 
-## Stampa: inserto Der Spiegel (da verificare)
+## Stampa: inserto Der Spiegel, marzo 2026 (verificato)
 
-Il titolare dice che SHS è a **pagina 24** dell'inserto **"Italia, la grande
-bellezza"** di Der Spiegel, **edizione marzo 2026**, pubblicato in **inglese,
-tedesco e francese** (in precedenza aveva indicato anche luglio 2026: da
-chiarire se sono due uscite). Verificato: il documento esiste su Issuu (editore
-Media Company, pubblicato il 27 marzo 2026) e il sito dell'editore
-(mediacompany.eu/der-spiegel, MediaCompany S.r.l.) lista i numeri. **Non
-verificato:** la pagina 24. Issuu non l'ha resa leggibile a un browser
-automatico e nelle pagine pubbliche non compaiono né il nome di Sweet Home
-Suites né diciture come "Anzeige" o "pubblicità". Quindi, finché non c'è la
-pagina vera:
+Pagina vista il 2026-11-12 (foto inviata dal titolare). Dati:
 
-- **Non scrivere** "visti su Der Spiegel", "ci ha scelto Der Spiegel" o "come
-  visto su". Se è uno spazio a pagamento, sarebbe fuorviante.
-- **Si può scrivere**, solo dopo conferma: "Presenti a pagina 24 dell'inserto
-  «Italia, la grande bellezza» di Der Spiegel, marzo 2026" (e "contenuto
-  promozionale" se lo è). L'inserto è in inglese, tedesco e francese: la
-  caption in inglese è quella giusta, e il tedesco e il francese sono mercati
-  da considerare.
-- {{da completare: scansione o foto della pagina, nome esatto dell'inserto,
-  se è un contenuto a pagamento o editoriale, e il permesso di riprodurre la
-  pagina in un post}}
+- **Pubblicazione:** inserto "Italia, la grande bellezza" di Der Spiegel,
+  **edizione di marzo 2026, unica uscita** (nessuna uscita di luglio). Lingue:
+  inglese, tedesco e francese. Editore: Media Company (Issuu: 27 marzo 2026).
+- **Pagina:** numero stampato **22** (il titolare parla di pagina 24, che è la
+  posizione nel PDF). Nei post: "pagina 22 dell'inserto".
+- **Natura:** **inserzione a pagamento** (confermato dal titolare), in una
+  pagina di strutture e cantine della zona di Verona (Cantina Ca' dei Conti,
+  Portinari Vini, Dimore Verona e altre). **Permesso di pubblicarla: sì**
+  (confermato dal titolare).
+- **Testo dell'annuncio (inglese):** "In the historic centre of Verona, Sweet
+  Home Suites welcomes guests just a few steps from the Arena and Piazza Bra.
+  The suites are synonymous with modern comfort and elegance: the abundant
+  natural light that enters through the large windows contributes to making
+  the environment welcoming and airy, while the spacious private bathrooms
+  offer relaxation with rainfall showers and chromotherapy. Recommendations
+  for romantic restaurants and itineraries in lesser-known Verona."
+- **Fatti nuovi da questo testo:** luce naturale dalle grandi finestre, bagni
+  privati ampi con doccia a pioggia e cromoterapia, **consigli su ristoranti
+  romantici e itinerari della Verona meno conosciuta** (un servizio da
+  raccontare: {{da completare: come si offre? lista, mappa, messaggio?}}).
+
+Come scriverlo nei post:
+- **Dicitura onesta:** "La nostra inserzione nell'inserto «Italia, la grande
+  bellezza» di Der Spiegel, marzo 2026" e, in inglese, "our paid listing".
+  Mai "visti su Der Spiegel" né "scelti da Der Spiegel": è uno spazio
+  acquistato, e la redazione non ci ha scelto.
+- **Lingue:** l'inserto è in inglese, tedesco e francese. Le caption in
+  inglese vanno bene, tedesco e francese sono mercati da considerare.
+- **Attenzione al sito stampato:** l'annuncio riporta **www.sweethomesuites.it**
+  e l'email sweethomesuites@gmail.com. Il sito vero e aggiornato, dove si
+  richiede il prezzo, è **sweethomesuites.eu**. Il dominio .it risponde
+  tramite Jimdo (un altro servizio di siti) e il mio browser è stato
+  bloccato: non so se mostra un sito vecchio, se rimanda al .eu o se è
+  vuoto. {{da controllare: che cosa vede chi digita il .it dopo aver letto
+  l'inserto}}
 
 ## L'invito all'azione
 

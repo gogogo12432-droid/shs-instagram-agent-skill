@@ -49,18 +49,18 @@ We do not accept pets or bachelor and bachelorette parties.
 Our own website has a lower price than the booking platforms. Comment ARENA and we will send you the link to request a price for your dates. Free cancellation up to 7 days before arrival.
 ```
 
-## Da confermare prima di pubblicare
+## Confermato dal titolare (12 novembre)
 
-1. **Cancellazione:** "gratuita fino a 7 giorni prima dell'arrivo" è la regola
-   scritta sul sito. Se è cambiata, dimmelo e tolgo la frase.
-2. **Tassa di soggiorno:** ho scritto "in contanti" (dal sito) e "esenti
-   fino a 14 anni" (dal calcolatore del sito). Non ho messo la cifra per
-   notte: su Airbnb è 3,50 euro per ospite, ma non l'ho trovata sul sito.
-   Dimmi se vuoi aggiungerla.
-3. **Animali e feste di addio:** sono le regole dell'annuncio Airbnb. Confermi
-   che valgono anche per chi prenota dal sito?
-4. **Ascensore e secondo piano:** vengono da Airbnb. Confermi?
-5. **Controlli del repo:** `caption.py` (prima riga intera in 61 caratteri,
-   5 hashtag sotto la riga) e `detect.py` (nessun termine da IA, nessun
-   carattere invisibile). Segnala "nessun invito all'azione": è un falso
-   allarme, lo strumento non riconosce "Commenta".
+1. Cancellazione "gratuita fino a 7 giorni prima dell'arrivo": ok.
+2. Tassa di soggiorno: **senza cifra** (come nella bozza).
+3. Niente animali e niente feste di addio: valgono anche dal sito.
+4. Ascensore e secondo piano: dati corretti.
+
+## Cosa resta da fare
+
+- Scegliere le foto per le slide 3 e 5 (`ingresso-2/3`, `soggiorno-2/3`): non
+  le ho guardate, controlla che non ci siano persone.
+- **Controlli del repo:** `caption.py` (prima riga intera in 61 caratteri, 5
+  hashtag sotto la riga) e `detect.py` (nessun termine da IA, nessun carattere
+  invisibile). Segnala "nessun invito all'azione": è un falso allarme, lo
+  strumento non riconosce "Commenta".

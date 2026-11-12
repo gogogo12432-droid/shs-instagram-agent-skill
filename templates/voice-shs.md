@@ -221,10 +221,14 @@ Pagina vista il 2026-11-12 (foto inviata dal titolare). Dati:
   raccontare: {{da completare: come si offre? lista, mappa, messaggio?}}).
 
 Come scriverlo nei post:
-- **Dicitura onesta:** "La nostra inserzione nell'inserto «Italia, la grande
-  bellezza» di Der Spiegel, marzo 2026" e, in inglese, "our paid listing".
-  Mai "visti su Der Spiegel" né "scelti da Der Spiegel": è uno spazio
-  acquistato, e la redazione non ci ha scelto.
+- **Dicitura (scelta del titolare: non indicare che è a pagamento):** neutra e
+  vera, ad esempio "Siamo a pagina 22 dell'inserto «Italia, la grande
+  bellezza» di Der Spiegel, marzo 2026" o "Our suites on page 22 of Der
+  Spiegel's «Italia, la grande bellezza» supplement". **Evitare** parole che
+  facciano pensare a una scelta o a un giudizio della redazione: "scelti da",
+  "consigliati da", "recensiti da", "featured by", "come visto su". Se un
+  ospite o un giornalista chiede com'è nata la presenza, si risponde in modo
+  diretto che è un'inserzione.
 - **Lingue:** l'inserto è in inglese, tedesco e francese. Le caption in
   inglese vanno bene, tedesco e francese sono mercati da considerare.
 - **Sito stampato:** l'annuncio riporta **www.sweethomesuites.it**. Il titolare

@@ -195,6 +195,23 @@ di citarle, perché cambiano):
 - **CIN:** {{da completare: numero CIN, se la struttura ne ha uno}}. Se va
   indicato negli annunci, va messo anche in bio.
 
+## Stampa: inserto Der Spiegel, luglio 2026 (da verificare)
+
+Il titolare dice che SHS è pubblicizzata nell'inserto di Der Spiegel del
+luglio 2026. La pagina indicata (mediacompany.eu/der-spiegel) è il sito
+dell'editore dell'edizione italiana, MediaCompany S.r.l.: elenca il numero di
+luglio 2026 ma **non nomina Sweet Home Suites** e non indica se si tratta di
+pubblicità. Quindi, finché non c'è la pagina vera:
+
+- **Non scrivere** "visti su Der Spiegel", "ci ha scelto Der Spiegel" o "come
+  visto su". Se è uno spazio a pagamento, sarebbe fuorviante.
+- **Si può scrivere**, solo dopo conferma: "Presenti nell'inserto di Der
+  Spiegel Italia, luglio 2026" (o la dicitura esatta, e "contenuto
+  promozionale" se lo è).
+- {{da completare: scansione o foto della pagina, nome esatto dell'inserto,
+  se è un contenuto a pagamento o editoriale, e il permesso di riprodurre la
+  pagina in un post}}
+
 ## L'invito all'azione
 
 - **Parole guida dei post:** eleganza, pulizia, disponibilità e

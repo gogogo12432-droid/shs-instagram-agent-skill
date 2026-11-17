@@ -64,3 +64,17 @@ Our own website has a lower price than the booking platforms. Comment ARENA and 
   hashtag sotto la riga) e `detect.py` (nessun termine da IA, nessun carattere
   invisibile). Segnala "nessun invito all'azione": è un falso allarme, lo
   strumento non riconosce "Commenta".
+
+## Slide prodotte (18 novembre)
+
+Sette immagini PNG 1080 x 1350, consegnate al titolare (non sono nel repo).
+Stile: caratteri e colori del sito (Cormorant Garamond, Manrope, blu notte
+#0F2A4A). Layout: foto a tutta larghezza (1080 x 900) e fascia blu sotto con
+il testo, così il testo non copre la foto. La copertina è a tutto schermo con
+una sfumatura leggera.
+
+Foto usate: copertina e slide 7 = foto dell'Arena del titolare (due scatti
+diversi); slide 2 `ingresso-1`, slide 3 `ingresso-2`, slide 4 `soggiorno-1`,
+slide 5 `soggiorno-app2-c` (angolo caffè), slide 6 `camera-1`.
+La slide 3 ("Ascensore, secondo piano") usa una foto dell'ingresso: non ho
+una foto dell'ascensore.

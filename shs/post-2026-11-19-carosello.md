@@ -1,38 +1,52 @@
-# Post 2: carosello di giovedì 19 novembre, 19:00
+# Post 2: carosello di giovedì 19 novembre, 19:00 (versione 2)
 
-BOZZA da approvare. Non pubblicato. Tipo: Teach (fiducia). Formato:
-carosello di 7 slide, 1080 x 1350 px (4:5), nessuna persona.
+BOZZA da approvare. Non pubblicato. Tipo: Proof (pulizia, ristrutturazione,
+posizione). Formato: 8 slide, 1080 x 1350 px (4:5), nessuna persona.
 
-L'idea: dire in anticipo le cose che l'ospite scopre solo all'arrivo (niente
-cucina, colazione non inclusa, tassa di soggiorno). Chi legge sa cosa
-aspettarsi e chi scrive ARENA è già convinto.
+Cambi rispetto alla prima versione, su richiesta del titolare:
+- frasi complete e corrette in italiano, meno spezzettate;
+- **nessun riferimento alla tassa di soggiorno** (è comunale, non è un
+  vantaggio della struttura);
+- più peso a **pulizia** e **ristrutturazione a nuovo**;
+- invito finale: **"Visita il nostro sito, link in bio"** al posto di
+  "Commenta ARENA".
+
+**Perché "link in bio" e non "link in descrizione":** nelle descrizioni di
+Instagram i link non sono cliccabili. Il link va nella bio.
 
 ## Slide
 
 | n. | foto | testo a schermo (IT / EN) |
 | --- | --- | --- |
-| 1 (copertina) | `piazza-bra.jpg`, taglio sull'Arena | 5 cose da sapere prima di prenotare a Verona. / 5 things to know before booking in Verona. |
-| 2 | `ingresso-1.jpg` (verticale, senza il quadro) | Check-in dalle 15:00, check-out entro le 11:00. Ti accogliamo di persona. / Check-in from 3 pm, check-out by 11 am. We welcome you in person. |
-| 3 | `ingresso-2.jpg` o `ingresso-3.jpg` (da scegliere) | Ascensore, secondo piano. / Elevator, second floor. |
-| 4 | `soggiorno-1.jpg` | Tassa di soggiorno: si paga all'arrivo, in contanti. Bambini fino a 14 anni esenti. / Tourist tax: paid on arrival, in cash. Children up to 14 are exempt. |
-| 5 | `soggiorno-2.jpg` o `soggiorno-3.jpg` (angolo caffè, se c'è) | Niente cucina, colazione non inclusa. C'è l'angolo caffè: Nespresso, tè e tisane. / No kitchen, breakfast not included. There is a coffee corner: Nespresso, tea and herbal teas. |
-| 6 | `camera-1.jpg` | 4 posti letto per appartamento. Culla gratuita per neonati, su richiesta. / 4 beds per apartment. Free cot for babies, on request. |
-| 7 | `piazza-bra.jpg` | Sul nostro sito il prezzo è più basso che sulle piattaforme. Commenta ARENA. / Our website has a lower price than the booking platforms. Comment ARENA. |
+| 1 | Arena al sole (foto del titolare) | Cosa trovi nelle nostre suite a 30 metri dall'Arena. / What you will find in our suites, 30 meters from the Arena. |
+| 2 | `ingresso-1` | Il check-in è possibile dalle 15:00 e il check-out è previsto entro le 11:00. Ti accogliamo di persona al tuo arrivo. / Check-in is from 3 pm and check-out is by 11 am. We welcome you in person when you arrive. |
+| 3 | `ingresso-2` | Le nostre suite si trovano al secondo piano ed è presente un ascensore. / Our suites are on the second floor and there is an elevator. |
+| 4 | `camera-1` | Gli ospiti valutano la pulizia 9,7 su 10 su Booking.com, in base a 142 recensioni. / Guests rate cleanliness 9.7 out of 10 on Booking.com, based on 142 reviews. |
+| 5 | `bagno-app2` | Le suite sono state completamente ristrutturate a nuovo nel 2020, con finiture curate e tanta luce naturale. / The suites were completely renovated in 2020, with refined finishes and plenty of natural light. |
+| 6 | `soggiorno-1` | Ogni appartamento ha soggiorno, camera e bagno privati e ospita fino a quattro persone, con culla gratuita per i neonati su richiesta. / Each apartment has a private living room, bedroom and bathroom and sleeps up to four guests, with a free cot for babies on request. |
+| 7 | `soggiorno-app2-c` | Non c'è la cucina e la colazione non è inclusa, ma trovi un angolo caffè con Nespresso, tè e tisane. / There is no kitchen and breakfast is not included, but you will find a coffee corner with Nespresso, tea and herbal teas. |
+| 8 | Arena, sole tra gli archi (foto del titolare) | Visita il nostro sito e chiedi il prezzo per le tue date: è più basso che sulle piattaforme. Link in bio. Cancellazione gratuita fino a 7 giorni prima dell'arrivo. / Visit our website and request a price for your dates: it is lower than on the booking platforms. Link in bio. |
 
-Tutti i dati vengono dal sito sweethomesuites.eu o dall'annuncio Airbnb
-(vedi `templates/voice-shs.md`). Le foto di `ingresso-2/3` e `soggiorno-2/3`
-non le ho guardate: scegli quella dove si vede meglio (e senza persone).
+Dati: pulizia 9,7 e 142 recensioni vengono dalle statistiche di Booking.com
+(12 novembre 2026), ricontrollare prima di pubblicare. "Ristrutturate a nuovo
+nel 2020": confermato dal titolare. Le recensioni di Booking in mio possesso
+sono solo punteggi, non testi: se si vuole citare una frase di un ospite
+serve il testo esatto.
 
 ## Caption in italiano
 
 ```
-5 cose da sapere prima di prenotare le nostre suite a Verona.
+Cosa trovi nelle nostre suite a 30 metri dall'Arena di Verona.
 
-Check-in dalle 15:00 e check-out entro le 11:00, con accoglienza di persona. Ascensore e secondo piano. La tassa di soggiorno si paga all'arrivo, in contanti: i bambini fino a 14 anni sono esenti. Niente cucina e colazione non inclusa, ma c'è l'angolo caffè con Nespresso, tè e tisane. Quattro posti letto per appartamento e culla gratuita per i neonati, su richiesta.
+Le suite si trovano al secondo piano, in Via Dietro Listone, ed è presente un ascensore. Il check-in è possibile dalle 15:00 e il check-out entro le 11:00; ti accogliamo di persona al tuo arrivo.
+
+Gli ospiti valutano la pulizia 9,7 su 10 su Booking.com, in base a 142 recensioni. Le suite sono state completamente ristrutturate a nuovo nel 2020, con finiture curate e tanta luce naturale.
+
+Ogni appartamento ha soggiorno, camera e bagno privati e ospita fino a quattro persone, con culla gratuita per i neonati su richiesta. Non c'è la cucina e la colazione non è inclusa, ma trovi un angolo caffè con Nespresso, tè e tisane.
 
 Non accettiamo animali né feste di addio al celibato o nubilato.
 
-Sul nostro sito il prezzo è più basso che sulle piattaforme. Commenta ARENA e ti mandiamo il link per chiedere il prezzo per le tue date. Cancellazione gratuita fino a 7 giorni prima dell'arrivo.
+Visita il nostro sito e chiedi il prezzo per le tue date: è più basso che sulle piattaforme. Link in bio. Cancellazione gratuita fino a 7 giorni prima dell'arrivo.
 
 #verona #arenadiverona #piazzabra #veronaitaly #sweethomesuites
 ```
@@ -40,41 +54,22 @@ Sul nostro sito il prezzo è più basso che sulle piattaforme. Commenta ARENA e 
 ## Caption in inglese
 
 ```
-5 things to know before booking our suites in Verona.
+What you will find in our suites, 30 meters from Verona's Arena.
 
-Check-in from 3 pm and check-out by 11 am, with a personal welcome. Elevator and second floor. The tourist tax is paid on arrival, in cash, and children up to 14 are exempt. There is no kitchen and breakfast is not included, but you get a coffee corner with Nespresso, tea and herbal teas. Four beds per apartment and a free cot for babies, on request.
+The suites are on the second floor, on Via Dietro Listone, and there is an elevator. Check-in is from 3 pm and check-out is by 11 am; we welcome you in person when you arrive.
+
+Guests rate cleanliness 9.7 out of 10 on Booking.com, based on 142 reviews. The suites were completely renovated in 2020, with refined finishes and plenty of natural light.
+
+Each apartment has a private living room, bedroom and bathroom and sleeps up to four guests, with a free cot for babies on request. There is no kitchen and breakfast is not included, but you will find a coffee corner with Nespresso, tea and herbal teas.
 
 We do not accept pets or bachelor and bachelorette parties.
 
-Our own website has a lower price than the booking platforms. Comment ARENA and we will send you the link to request a price for your dates. Free cancellation up to 7 days before arrival.
+Visit our website and request a price for your dates: it is lower than on the booking platforms. Link in bio. Free cancellation up to 7 days before arrival.
 ```
 
-## Confermato dal titolare (12 novembre)
+## Prima di pubblicare
 
-1. Cancellazione "gratuita fino a 7 giorni prima dell'arrivo": ok.
-2. Tassa di soggiorno: **senza cifra** (come nella bozza).
-3. Niente animali e niente feste di addio: valgono anche dal sito.
-4. Ascensore e secondo piano: dati corretti.
-
-## Cosa resta da fare
-
-- Scegliere le foto per le slide 3 e 5 (`ingresso-2/3`, `soggiorno-2/3`): non
-  le ho guardate, controlla che non ci siano persone.
-- **Controlli del repo:** `caption.py` (prima riga intera in 61 caratteri, 5
-  hashtag sotto la riga) e `detect.py` (nessun termine da IA, nessun carattere
-  invisibile). Segnala "nessun invito all'azione": è un falso allarme, lo
-  strumento non riconosce "Commenta".
-
-## Slide prodotte (18 novembre)
-
-Sette immagini PNG 1080 x 1350, consegnate al titolare (non sono nel repo).
-Stile: caratteri e colori del sito (Cormorant Garamond, Manrope, blu notte
-#0F2A4A). Layout: foto a tutta larghezza (1080 x 900) e fascia blu sotto con
-il testo, così il testo non copre la foto. La copertina è a tutto schermo con
-una sfumatura leggera.
-
-Foto usate: copertina e slide 7 = foto dell'Arena del titolare (due scatti
-diversi); slide 2 `ingresso-1`, slide 3 `ingresso-2`, slide 4 `soggiorno-1`,
-slide 5 `soggiorno-app2-c` (angolo caffè), slide 6 `camera-1`.
-La slide 3 ("Ascensore, secondo piano") usa una foto dell'ingresso: non ho
-una foto dell'ascensore.
+1. **Link in bio:** metti nella bio sweethomesuites.eu (meglio la pagina
+   Prenotazioni: sweethomesuites.eu/bookings).
+2. Ricontrolla 9,7 e 142 recensioni su Booking.
+3. Posizione: "Arena di Verona".

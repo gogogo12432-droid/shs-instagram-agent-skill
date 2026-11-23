@@ -1,4 +1,7 @@
-# Post 2: carosello di giovedì 19 novembre, 19:00 (versione 2)
+# Post 2: carosello di martedì 24 novembre, 19:00 (versione 2)
+
+Data aggiornata: era giovedì 19, poi domenica 22; ora martedì 24 (vedi
+`piano-2026-11-23.md`).
 
 BOZZA da approvare. Non pubblicato. Tipo: Proof (pulizia, ristrutturazione,
 posizione). Formato: 8 slide, 1080 x 1350 px (4:5), nessuna persona.
